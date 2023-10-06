@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Users Shared Preferences</string>
+    <string name="sp_first_time">first_time</string>
+</resources>
